@@ -4,7 +4,7 @@
 
 ## test.py
 #### this tests the following functionality of the init.py extractor
-##### ..* cleaning
-##### ..* markup handling
-##### ..* hyperlink extraction
+..* cleaning
+..* markup handling
+..* hyperlink extraction
 
